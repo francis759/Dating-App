@@ -1,2 +1,2 @@
-# Programming-For-Entrepreneurs-Javascript
-Course project
+# Programming_For_Entrepreneurs-Javascript
+Course Project

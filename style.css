@@ -1,0 +1,53 @@
+body{
+    font-family:Helvetica;
+}
+#header{
+    background-color:#F16F51;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+h1{
+    vertical-align: middle;
+    color: white;
+    font-weight:lighter;
+}
+.row{
+    margin: 10px 20px;
+    color: white;
+}
+#results{
+    margin: 30px 20px 10px 0px;
+}
+.person-row{
+    margin: 10px 0px;
+    padding: 10px;
+    background-color: #FDB45C;
+    width: 100%;
+    float: left;
+}
+.person-row img{
+    float: left;
+    margin-right: 20px;
+}
+.personal-info{
+    float:left;
+}
+.person-row >button{
+    float: right;
+}
+.group{
+    font-size: 10px;
+    font-style: italic;
+}
+.middle {
+	position: relative;
+	width: 50%;
+	max-width: 500px;
+}
+.age{
+    font-size: 15px;
+    font-style: italic;
+    width: 50px;
+    color: red;
+}
